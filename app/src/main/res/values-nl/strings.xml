@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btnBack">Terug</string>
+    <string name="btnFindVenues">Vind Plekken</string>
+    <string name="pref_radius_summary">De straal in meters rondom the huidige locatie waarin naar plekken moet worden gezocht.</string>
+    <string name="pref_radius_title">Zoekstraal</string>
+    <string name="txtInformation">Deze app gebruikt de Foursquare API om plekken bij jou in de buurt te vinden. De app probeert altijd je laatst bekende locatie te gebruiken. Als die niet bekend is, probeert de app je huidige locatie te verkrijgen.</string>
+    <string name="title_activity_settings">Instellingen</string>
+    <string name="txtConnectionToast">Locatie services verbroken. Nieuwe verbinding wordt gemaakt.</string>
+    <string name="txtLocation">Locatie: </string>
+    <string name="location_not_found">Locatie niet gevonden</string>
+</resources>
